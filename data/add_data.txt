@@ -1,0 +1,1 @@
+{"properties":{"category":21,"attributes":{"twitterid":540252256780943360,"url":null}},"geometry":{"coordinates":[-1.1511952,51.5769755],"type":"Point"},"type":"Feature"}

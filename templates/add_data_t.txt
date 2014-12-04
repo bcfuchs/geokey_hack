@@ -1,0 +1,20 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+	0, 
+	0
+
+        ]
+    },
+    "properties": {
+       "attributes": {
+            "url":1,
+	    "twitterid":1
+        },
+        "category": 21
+    }   
+
+ }
+

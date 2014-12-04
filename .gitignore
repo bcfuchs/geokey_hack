@@ -1,0 +1,9 @@
+## generic files to ignore
+*~
+.env*
+\#*
+.\#*
+*.lock
+*.DS_Store
+*.swp
+Icon?
