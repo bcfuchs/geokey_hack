@@ -15,7 +15,9 @@ Note: you will need the excellent jq to run this, which you can get here: [http:
 
 ##1. Set up your GeoKey Project
 
-Define a project and a data category in Geokey.
+Define a project and a data category in Geokey. 
+
+In the data category of your GeoKey project, define text fields for twitterid and url. These will be used to store the image from twitter and the tweet id. Make sure that they are not mandatory/required.
 
 ##2. Create a GeoKey application
 
