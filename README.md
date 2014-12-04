@@ -15,9 +15,11 @@ The code is a proof-of-concept written in a day, so a) no error-checking , b) no
 
 Define a project and a data category. 
 
-##2. Create an application for your GeoKey Project
+##2. Create a GeoKey pplication
 
-##3. Create an application for the twitter account you are going to use 
+##3. Create an Twitter application 
+
+Create an application for the twitter account you want to use as the mailbox for data. 
 
 ##4. Set up your .env.gktwit
 
