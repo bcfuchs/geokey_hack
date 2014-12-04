@@ -9,6 +9,8 @@ The application needs to be set up on a server and run as a cronjob. It will har
 
 The code is a proof-of-concept written in a day, so a) no error-checking , b) no guarantees. 
 
+Note: you will need the excellent jq to run this, which you can get here: [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/)
+
 #Set up
 
 ##1. Set up your GeoKey Project
