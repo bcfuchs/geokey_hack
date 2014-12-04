@@ -23,9 +23,11 @@ Create an application for the twitter account you want to use as the mailbox for
 
 ##4. Set up your .env.gktwit
 
--Copy bin/env.sample to bin/.env.gktwit
--Open bin/.env.gktwit in an editor
--Supply required info--further instructions in the file. 
+Copy bin/env.sample to bin/.env.gktwit
+
+Open bin/.env.gktwit in an editor
+
+Supply required info--further instructions in the file. 
 
 
 ##5. Set up a cron job to run c. every 15 mins
