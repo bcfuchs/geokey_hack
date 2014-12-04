@@ -21,7 +21,7 @@ Create an application in GeoKey.
 
 Make a note of the client id and client secret.
 
-##3. Create an Twitter application 
+##3. Create a Twitter application 
 
 Create an application for the twitter account you want to use as the mailbox for data. 
 
