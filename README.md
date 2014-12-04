@@ -3,7 +3,7 @@ geokey_hack
 
 Geokey twitter input application 
 
-This is the code from my contribution to the GeoKey code sprint—an application for geokey that lets you turn twitter on mobile devices  into an "instant" data collection tool for GeoKey. 
+This is the code from my contribution to the GeoKey code sprint—an application for geokey that lets you turn twitter on mobile devices  into an "instant" data collection tool for [GeoKey](http://geokey.org.uk/). 
 
 The application needs to be set up on a server and run as a cronjob. It will harvest a twitter stream, extract tweets with a given hashtag that have been sent to your account, and add them (including geo data and an image if present) to your GeoKey project
 
