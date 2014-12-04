@@ -15,7 +15,7 @@ The code is a proof-of-concept written in a day, so a) no error-checking , b) no
 
 Define a project and a data category. 
 
-##2. Create a GeoKey pplication
+##2. Create a GeoKey application
 
 ##3. Create an Twitter application 
 
