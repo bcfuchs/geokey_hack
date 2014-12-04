@@ -35,7 +35,7 @@ Supply required info--further instructions in the file.
 Set up a cron job to run c. every 15 mins
 (where HASHTAG is the hashtag that data collectors will use in their tweets)
 
-e.g.  */4 *  * * * cd /path/to/this/app; /bin/bash bin/geokey-tweet-app.sh HASHTAG >& /dev/nul 
+e.g.  */4 *  * * * cd /path/to/this/app; /bin/bash bin/geokey-tweet-app.sh HASHTAG >& /dev/null 
 
 
 
