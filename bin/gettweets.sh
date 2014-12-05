@@ -3,7 +3,7 @@ set -e
 source .env.gktwit
 hashtag=$1;
 
-access_token=`sh get_auth.sh | jq -r .access_token`;
+access_token=`bash get_auth.sh | jq -r .access_token`;
 base=https://api.twitter.com
 
 path="/1.1/search/tweets.json?count=50&screen_name=$TWITTER_SCREEN_NAME&q=$hashtag"
