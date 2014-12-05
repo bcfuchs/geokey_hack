@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e
-
+source .env.gktwit
 hashtag=$1
 trap "echo 'FAILED!'" EXIT
 
