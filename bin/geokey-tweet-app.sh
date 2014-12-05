@@ -10,7 +10,7 @@ trap "echo 'FAILED!'" EXIT
 # currently just the curl from twitter. 
 # TODO--only look at direct messages.
 
-tweets=`sh gettweets.sh $hashtag`
+tweets=`bash gettweets.sh $hashtag`
 
 # filter if nec
 # check seen list for tweets
