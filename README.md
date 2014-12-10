@@ -49,7 +49,7 @@ e.g.  */4 *  * * * cd /path/to/this/app/bin; /bin/bash geokey-tweet-app.sh HASHT
 
 Let people know what hashtag and handle to use for contributions on twitter. 
 
-Make sure contributors know to turn on "location" in their twitter settings. 
+Make sure contributors know to turn on "location" in the twitter app settings on their mobiles. 
 
 
 
